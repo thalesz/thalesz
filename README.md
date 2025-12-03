@@ -1,143 +1,121 @@
 <div align="center">
 
-# **Thales Lopes Araujo**
+# 🌎 **Thales Lopes Araujo**
 
-[![Português](https://img.shields.io/badge/🌎%20Português-blue)](#pt-br)
-[![English](https://img.shields.io/badge/🇺🇸%20English-red)](#english)
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="50">
 
-📍 Manaus – AM  
-📧 **thales.lps.araujo@gmail.com**  
-📞 **(92) 98427-0761**  
+<br>
+
+<a href="#pt">
+<img src="https://img.shields.io/badge/PT--BR-Idioma-blue?style=for-the-badge">
+</a>
+
+<a href="#en">
+<img src="https://img.shields.io/badge/EN-English-red?style=for-the-badge">
+</a>
 
 ---
+
+### 🌗 Tema: GitHub usa modo automático → Dark/Light adaptável  
+*(os ícones e badges já suportam os dois temas)*
 
 </div>
 
 ---
 
-# <a name="pt-br"></a> 🇧🇷 **Português**
+# <a name="pt"></a> 🇧🇷 **Português**
 
-## 🧭 Objetivo Profissional
-Profissional com experiência em desenvolvimento fullstack, suporte técnico, análise de dados e inteligência artificial. Focado em entregar soluções escaláveis, dashboards interativos e integrações eficientes entre front-end, back-end e bancos de dados.
-
----
-
-## 🎓 Formação Acadêmica
-- **Ensino Médio (2014)** – Fundação Nokia de Ensino  
-- **Engenharia de Software (2021 – Presente)** – Universidade Federal do Amazonas
+## 👨‍💻 Sobre Mim
+Desenvolvedor fullstack com experiência em FastAPI, React, Node.js, visualização de dados e soluções cloud. Apaixonado por IA, visão computacional e automações.
 
 ---
 
-## 💼 Experiência Profissional
+## 🚀 Tecnologias e Habilidades
 
-### **Programador — Interactive By Nature LTDA**  
-📅 *11/2024 – 11/2025*  
-- Desenvolvimento fullstack com **FastAPI**, **React**, **Material UI**.  
-- Dashboards geoespaciais utilizando **PostGIS**.  
-- Integração com **PostgreSQL**, **MariaDB**, **MongoDB**.  
-- CI/CD usando **Google Cloud Platform** + Docker.
+### **Linguagens**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
-### **Auxiliar Técnico em Programação — FAPEAM**  
-📅 *04/2024 – 10/2024*  
-- Fullstack com **Node.js**, **MongoDB**, **React**.
+### **Backend**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=white)
 
-### **Suporte ao Usuário — Communy**  
-📅 *04/2023 – 12/2023*
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![MaterialUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
 
-### **EstáGios em Informática — TCE & Policlínica**  
-📅 *2022 – 2023*
+### **Banco de Dados**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 
----
-
-## 🏅 Cursos e Certificações (Resumo)
-- Python – Cisco  
-- React & Node.js – TIC  
-- Introdução à IA – TIC  
-- PowerBI + SQLServer – Udemy  
-- .NET C# – Udemy  
-- Lean Six Sigma Yellow Belt – FM2S  
-- FastAPI – Geek Academy  
-- Android Enterprise Certified  
-- Scrum Basics – Scrum Inc  
-- LGPD – Fundação Bradesco  
+### **Cloud & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 
 ---
 
-## 📘 Outros
-- Artigo publicado no **WCAMA 2024 – CSBC**.  
-- Vencedor da **Startup Weekend Women Manaus**.  
-- Experiência com visão computacional, LLMs, chatbots e automações.  
+## 📘 Experiência (Resumo)
+- **Interactive By Nature** — FastAPI, React, PostGIS, dashboards, GCP, Docker  
+- **FAPEAM** — Node.js, MongoDB, React  
+- **Communy** — Suporte técnico SaaS  
+- **TCE & Policlínica** — Suporte em TI
 
 ---
 
-## 💡 Habilidades
-- Dinâmico  
-- Proativo  
-- Pontual  
-- Comprometido  
+## 📚 Artigos e Conquistas
+- Artigo publicado no **WCAMA 2024 – CSBC**  
+- Vencedor da **Startup Weekend Women Manaus**  
+- PIbic, monitoria, pesquisa  
 
 ---
 
 ---
 
-# <a name="english"></a> 🇺🇸 **English**
+# <a name="en"></a> 🇺🇸 **English**
 
-## 🧭 Professional Summary
-Full-stack developer with experience in backend, frontend, cloud deployment, data visualization, and artificial intelligence. Focused on building scalable systems, geospatial dashboards, and efficient integrations across modern web architectures.
-
----
-
-## 🎓 Education
-- **High School (2014)** – Fundação Nokia de Ensino  
-- **Software Engineering (2021 – Present)** – Federal University of Amazonas (UFAM)
+## 👨‍💻 About Me
+Full-stack developer experienced in FastAPI, React, Node.js, cloud systems, data visualization and AI-driven solutions.
 
 ---
 
-## 💼 Professional Experience
+## 🚀 Technologies & Skills
 
-### **Software Developer — Interactive By Nature LTDA**  
-📅 *11/2024 – 11/2025*  
-- Full-stack development using **FastAPI**, **React** and **Material UI**.  
-- Geospatial dashboards built with **PostGIS**.  
-- Database integrations: **PostgreSQL**, **MariaDB**, **MongoDB**.  
-- CI/CD on **Google Cloud Platform** using Docker.
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
-### **Programming Technician Assistant — FAPEAM**  
-📅 *04/2024 – 10/2024*  
-- Full-stack development using **Node.js**, **MongoDB**, and **React**.
+### **Backend**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
-### **User Support Technician — Communy**  
-📅 *04/2023 – 12/2023*
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![MaterialUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
 
-### **IT Internships — TCE & Policlínica**  
-📅 *2022 – 2023*
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
----
-
-## 🏅 Courses & Certifications (Summary)
-- Python – Cisco  
-- React & Node.js – TIC  
-- AI Fundamentals – TIC  
-- PowerBI + SQLServer – Udemy  
-- .NET C# – Udemy  
-- Lean Six Sigma Yellow Belt – FM2S  
-- FastAPI – Geek Academy  
-- Android Enterprise Certified  
-- Scrum Basics – Scrum Inc  
-- LGPD (Brazil Data Protection Law) – Bradesco Foundation  
+### **Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 
 ---
 
-## 📘 Additional
-- Research participation (PIBIC), monitoring and academic projects.  
-- Published paper at **WCAMA 2024 – CSBC**.  
-- Winner of **Startup Weekend Women Manaus** hackathon.  
-- Personal projects using computer vision, LLMs, chatbots and automations.
+## 📘 Experience (Summary)
+- **Interactive By Nature** — FastAPI, React, PostGIS, dashboards, GCP, Docker  
+- **FAPEAM** — Node.js, MongoDB, React  
+- **Communy** — SaaS user support  
+- **TCE & Policlínica** — IT support  
 
 ---
 
-## 💡 Skills
-- Dynamic  
-- Proactive  
-- Punctual  
-- Committed  
+## 📚 Articles & Achievements
+- Published paper at **WCAMA 2024 – CSBC**  
+- Winner of **Startup Weekend Women Manaus**  
+- Research projects, PIBIC and academic work  
+
